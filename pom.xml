@@ -154,6 +154,7 @@
                             <exclude>**/*Vo.class</exclude>
                         </excludes>
                     </instrumentation>
+                    <check/>
                 </configuration>
             </plugin>
 
